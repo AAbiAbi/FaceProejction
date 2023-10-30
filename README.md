@@ -9,20 +9,24 @@ This project provides a visualization tool for displaying 3D objects (specifical
 - **Zoom Control**: Adjustable zoom level using a scale slider.
 - **Rotation Control**: Users can control the rotation along the X and Y axes.
   
-## Usage
+## Software and Library Versions
 
-1. Clone the repository.
-2. Navigate to the project directory.
-3. Run the main program.
+- **Python**: 3.8.x (It's recommended to use this version or later for compatibility)
+  
+- **tkinter**: Built-in with Python
+  
+- **numpy**: 1.21.x
+
+- **matplotlib**: 3.4.x
+
+- **PIL (Pillow)**: 8.3.x
 
 
-## Dependencies
+## Setup & Running
 
-- `tkinter`
-- `numpy`
-- `matplotlib`
-- `PIL`
-
+1. **Clone the Repository**:
+2. **Run the gui.py**:
+3. **Interact with GUI**:
 
 ## Results
 
